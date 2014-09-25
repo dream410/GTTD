@@ -1,4 +1,5 @@
 GTTD
 ====
 hello world
-Github Two Times Development
+Github twice Development
+
